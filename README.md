@@ -10,8 +10,7 @@ A simple Python script to generate strong, random passwords based on user prefer
   - Uppercase letters
   - Numbers
   - Special characters
-- Ensures passwords meet the desired complexity.<b/>
-<i>More features incoming</i> 
+- Ensures passwords meet the desired complexity.
 
 ---
 
@@ -20,3 +19,7 @@ A simple Python script to generate strong, random passwords based on user prefer
 2. Run the script in your terminal:
    ```bash
    python password_generator.py
+
+
+
+<b><i>More features incoming</i></b>
