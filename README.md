@@ -6,11 +6,12 @@ A simple Python script to generate strong, random passwords based on user prefer
 
 ## Features
 - Specify password length.
-- Options to include:
+- Options I've included:
   - Uppercase letters
   - Numbers
   - Special characters
 - Ensures passwords meet the desired complexity.
+<i>More features incoming</i> 
 
 ---
 
