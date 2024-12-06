@@ -10,7 +10,7 @@ A simple Python script to generate strong, random passwords based on user prefer
   - Uppercase letters
   - Numbers
   - Special characters
-- Ensures passwords meet the desired complexity.
+- Ensures passwords meet the desired complexity.<b/>
 <i>More features incoming</i> 
 
 ---
